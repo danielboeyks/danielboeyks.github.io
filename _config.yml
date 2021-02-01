@@ -102,7 +102,7 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        * Candidate for the SIPA-Hertie Dual Degree Programme. I will graduate with a Masters of Public Policy (MPP) degree from the Hertie School and Masters of Public Administration (MPA) degree from Columbia University.
+        * Candidate for the SIPA Hertie Dual Degree Programme. I will graduate with a Masters of Public Policy (MPP) degree from the Hertie School and Masters of Public Administration (MPA) degree from Columbia University.
         * Concentration in Economic and Political Development
         * Specialization in Data Analytics and Quantitative Analysis
         * Programming experience in R, Python, QGIS, PostgreSQL
