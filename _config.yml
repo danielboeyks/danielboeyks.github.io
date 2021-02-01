@@ -12,7 +12,7 @@ email: daniel.boey@columbia.edu
 website: www.danielboeyks.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -48,101 +48,96 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Trained as an environmental engineer, I am eager to work towards engineering solutions of the future, informed by quantitative and qualitative data analytics, and driven by sustainable impact. 
+  
+  In particular, I am passionate about building resiliency in urban environments towards disasters & crisis, from climate-change induced natural disasters to global pandemics. 
+  Currently at SIPA, I am completing a Master of Public Administration to specializing in both Economic & Political Development and Data Analytics & Quantitative Analysis. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  You may download my CV [here](https://github.com/danielboeyks/danielboeyks.github.io/raw/master/CV_DanielBoey_Jan21.pdf)
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       # link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
       
-      - layout: top-middle  
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-      - layout: top-middle  
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: United States Department of Defense
+        link: www.cfe-dmha.org
+        link_text: Center for Excellence - Disaster Management & Humanitarian Assistance
+        sub_title: Graduate Consultant
+        caption: Jan 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          * Provide actionable intelligence by scoping and compiling humanitarian agencies’ challenges/opportunities in disaster management operations and policies within the COVID-19 climate.
+          * Recommend adaptations in the roles, functions & responsibilities to ensure the continuation of disaster management operations among humanitarian agencies.
+          * Support the ASEAN Coordinating Centre for Humanitarian Assistance Centre and other stakeholders of interest for the Center for Excellence in Disaster Management & Humanitarian Assistance (CFE-DM), DoD as part of the SIPA Capstone.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Columbia University, School of International & Public Affairs
+        caption: 2016 - 2019
+        sub_title: Bachelor of Science in Engineering (Civil Engineering), Summa Cum Laude
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+        * Candidate for the SIPA-Hertie Dual Degree Programme: I will graduate with a Masters of Public Policy (MPP) degree from the Hertie School and Masters of Public Administration (MPA) degree from Columbia University.
+        * Concentration: Economic and Political Development
+        * Specialization: Data Analytics and Quantitative Analysis
+        * Programming experience in: R, Python, QGIS, PostgreSQL
+      
+      - layout: left
+        title: Hertie School
+        caption: 2019-2021
+        sub_title: Master of Public Policy
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+        * Specialisation: Energy Policy Analysis
+        * Coursework in Energy Economics & Geopolitics, Labour Policy, Natural Language Processing and Causal Analysis
+        * Learnt and employed dynamic optimisation, geospatial mapping and programming of small Unmanned Aerial Vehicles for remote sensing and data collection.
+        * Programming experience in: R (data manipulation & visualisation, causal analysis/econometrics techniques, geospatial data analysis) and Python (data manipulation & visualisation, machine learning, natural language processing). Other programming software utilized include Tableau and MySQL
+
+      - layout: left
+        title: Duke University, Pratt School of Engineering
+        caption: 2016 - 2019
+        sub_title: Bachelor of Science in Engineering (Civil Engineering), Summa Cum Laude
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+        * Graduated Summa Cum Laude and as the top academically performing undergraduate at Duke University.
+        * Conducted research in air quality management, disaster resiliency and public policy related to climate change, marine and urban environments.
+        * Learnt and employed dynamic optimisation, geospatial mapping and programming of small Unmanned Aerial Vehicles for remote sensing and data collection.
+        * Programming experience in: MATLAB, R, ArcGIS, LaTeX, Mission Planner (Drone Programming), EdGCM (Climate Change Modelling)
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Complete races  
+      
 
 # Footer
 footer_show_references: true
