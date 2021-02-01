@@ -84,13 +84,45 @@ content:
         link_text: Center for Excellence - Disaster Management & Humanitarian Assistance
         sub_title: Graduate Consultant
         caption: Jan 2021 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
         Recommending adapatations for the AHA Centre for disaster management in COVID-19. 
           * Provide actionable intelligence by scoping and compiling humanitarian agencies’ challenges/opportunities in disaster management operations and policies within the COVID-19 climate.
           * Recommend adaptations in the roles, functions & responsibilities to ensure the continuation of disaster management operations among humanitarian agencies.
           * Support the ASEAN Coordinating Centre for Humanitarian Assistance Centre and other stakeholders of interest for the Center for Excellence in Disaster Management & Humanitarian Assistance (CFE-DM), DoD as part of the SIPA Capstone.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: National Healthcare Group
+        link: https://www.nhgeducation.nhg.com.sg/homer
+        link_text: Health Outcomes and Medical Education Research Unit
+        sub_title: Healthcare Research Executive
+        caption: Aug - Nov 2020
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+        Healthcare research into the determinants of health-seeking behaviour to mitigate the spread of COVID-19.
+          * Spearheaded data operations to produce actionable intelligence integrated from all primary and acute care facilities in Singapore amidst the COVID-19 crisis.
+          * Utilized geospatial analytical tools (e.g. clustering, interpolation) on patient-level data to seek localised health trends to inform real-time policy decisions.
+          * Assisted in nationwide COVID-19 hospital operations and other health services operations related to COVID-19.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Ministry of Health, Singapore
+        link: https://www.moh.gov.sg/
+        link_text: Health Services Group
+        sub_title: Health Services Operations Administrator
+        caption: May - Aug 2020
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+        Conducted data analytic operations to merge essential indicators from primary and acute care facilities for policy & operational response in COVID-19. 
+          * Spearheaded data operations to produce actionable intelligence integrated from all primary and acute care facilities in Singapore amidst the COVID-19 crisis.
+          * Utilized geospatial analytical tools (e.g. clustering, interpolation) on patient-level data to seek localised health trends to inform real-time policy decisions.
+          * Assisted in nationwide COVID-19 hospital operations and other health services operations related to COVID-19.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
