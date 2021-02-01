@@ -102,10 +102,10 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        * Candidate for the SIPA-Hertie Dual Degree Programme: I will graduate with a Masters of Public Policy (MPP) degree from the Hertie School and Masters of Public Administration (MPA) degree from Columbia University.
-        * Concentration: Economic and Political Development
-        * Specialization: Data Analytics and Quantitative Analysis
-        * Programming experience in: R, Python, QGIS, PostgreSQL
+        * Candidate for the SIPA-Hertie Dual Degree Programme. I will graduate with a Masters of Public Policy (MPP) degree from the Hertie School and Masters of Public Administration (MPA) degree from Columbia University.
+        * Concentration in Economic and Political Development
+        * Specialization in Data Analytics and Quantitative Analysis
+        * Programming experience in R, Python, QGIS, PostgreSQL
       
       - layout: left
         title: Hertie School
@@ -114,10 +114,10 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-        * Specialisation: Energy Policy Analysis
+        * Specialisation in Energy Policy Analysis
         * Coursework in Energy Economics & Geopolitics, Labour Policy, Natural Language Processing and Causal Analysis
         * Learnt and employed dynamic optimisation, geospatial mapping and programming of small Unmanned Aerial Vehicles for remote sensing and data collection.
-        * Programming experience in: R (data manipulation & visualisation, causal analysis/econometrics techniques, geospatial data analysis) and Python (data manipulation & visualisation, machine learning, natural language processing). Other programming software utilized include Tableau and MySQL
+        * Programming experience in R (data manipulation & visualisation, causal analysis/econometrics techniques, geospatial data analysis) and Python (data manipulation & visualisation, machine learning, natural language processing). Other programming software utilized include Tableau and MySQL
 
       - layout: left
         title: Duke University, Pratt School of Engineering
@@ -129,7 +129,7 @@ content:
         * Graduated Summa Cum Laude and as the top academically performing undergraduate at Duke University.
         * Conducted research in air quality management, disaster resiliency and public policy related to climate change, marine and urban environments.
         * Learnt and employed dynamic optimisation, geospatial mapping and programming of small Unmanned Aerial Vehicles for remote sensing and data collection.
-        * Programming experience in: MATLAB, R, ArcGIS, LaTeX, Mission Planner (Drone Programming), EdGCM (Climate Change Modelling)
+        * Programming experience in MATLAB, R, ArcGIS, LaTeX, Mission Planner (Drone Programming), EdGCM (Climate Change Modelling)
 
   - title: A Little More About Me
     layout: text
