@@ -12,7 +12,7 @@ email: daniel.boey@columbia.edu
 website: www.danielboeyks.github.io
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -56,25 +56,41 @@ about_content: | # this will include new lines to allow paragraphs
   You may download my CV [here](https://github.com/danielboeyks/danielboeyks.github.io/raw/master/CV_DanielBoey_Jan21.pdf)
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       # link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Predicting Policy Domains and Preferences with BERT and Convolutional Neural Networks
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  Github Repo
+            icon: fab fa-github
+            url: https://github.com/danielboeyks/bertcnn-classifying-manifestos
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Natural Language Processing with Deep Learning, 2020 - Present
+        description: | # this will include new lines to allow paragraphs
+          We build on current approaches to label shorter texts and phrases in party manifestos using a pre-existing coding scheme developed by political scientists for classifying texts by policy domain and policy preference. Using labels and data compiled by the Manifesto Project, we make use of the state-of-the-art Bidirectional Encoder Representations from Transformers (BERT) in conjunction with Convolutional Neural Networks (CNN) and Gated Recurrent Units (GRU) to seek out the best model architecture for policy domain and policy preference classification.
       
+      - layout: top-middle
+        title: Geospatial Mapping of Air Pollution with Drones
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  Github Repo (see final paper)
+            icon: fab fa-github
+            url: https://github.com/danielboeyks/MATLAB-ArcGIS-2017-Geospatial-Mapping-of-Air-Pollution-with-sUAS
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Air Pollution, Unmanned Aerial Systems, Remote Sensing, Geospatial Analysis, 2017
+        description: | # this will include new lines to allow paragraphs
+          I mounted low-cost particulate matter sensors onto a pre-programmed drone to geospatially map and measure short-term particulate matter measurements over the desired region.
+            
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
