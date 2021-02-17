@@ -54,11 +54,28 @@ about_content: | # this will include new lines to allow paragraphs
   Currently at SIPA, I am completing a Master of Public Administration to specializing in both Economic & Political Development and Data Analytics & Quantitative Analysis. 
 
   You may download my CV [here](https://github.com/danielboeyks/danielboeyks.github.io/raw/master/CV_DanielBoey_Jan21.pdf)
+  
+  During my free time, I enjoy rock climbing, cycling, cooking and finding scrumptuous eats that are beyond my culinary abilities. 
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+         - layout: top-middle
+        title: Predicting Poverty with Satellite Imagery
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  Github Repo
+        #     icon: fab fa-github
+        #     url: https://github.com/danielboeyks/bertcnn-classifying-manifestos
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Geospatial Analysis, Satellite Data, Remote Sensing, Deep Learning, 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          I aim to develop on the methodology listed out in [Jean (2016)](https://science.sciencemag.org/content/353/6301/790) to utilize satellite data to predict poverty. In specific, I hope to utilize publicly available satellite data (Sentinel-2) and Demograhic and Health Surveys (DHS) that map socioeconomic indicators of poverty to develop a pre-trained Convolutional Neural Network followed by a regression model to predict socioeconomic indicators. 
       - layout: top-middle
         title: Predicting Policy Domains and Preferences with BERT and Convolutional Neural Networks
         # link: github.com/sproogen
@@ -71,9 +88,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Natural Language Processing with Deep Learning, 2020 - Present
+          Natural Language Processing, Deep Learning, 2020 - Present
         description: | # this will include new lines to allow paragraphs
-          We build on current approaches to label shorter texts and phrases in party manifestos using a pre-existing coding scheme developed by political scientists for classifying texts by policy domain and policy preference. Using labels and data compiled by the Manifesto Project, we make use of the state-of-the-art Bidirectional Encoder Representations from Transformers (BERT) in conjunction with Convolutional Neural Networks (CNN) and Gated Recurrent Units (GRU) to seek out the best model architecture for policy domain and policy preference classification.
+          Together with a Hertie School graduate, I build on current approaches to label shorter texts and phrases in party manifestos using a pre-existing coding scheme developed by political scientists for classifying texts by policy domain and policy preference. Using labels and data compiled by the Manifesto Project, we make use of the state-of-the-art Bidirectional Encoder Representations from Transformers (BERT) in conjunction with Convolutional Neural Networks (CNN) and Gated Recurrent Units (GRU) to seek out the best model architecture for policy domain and policy preference classification.
       
       - layout: top-middle
         title: Geospatial Mapping of Air Pollution with Drones
@@ -185,7 +202,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
