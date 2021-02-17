@@ -61,11 +61,11 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: top-middle
-       title: Predicting Poverty with Satellite Imagery
+      - layout: top-middle
+        title: Predicting Poverty with Satellite Imagery
         # link: github.com/sproogen
         # link_text: Project Website
-        # additional_links:
+        additional_links:
         #   - title:  Github Repo
         #     icon: fab fa-github
         #     url: https://github.com/danielboeyks/bertcnn-classifying-manifestos
